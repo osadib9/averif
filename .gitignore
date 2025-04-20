@@ -1,0 +1,13 @@
+# Add .env files with sensitive data
+.env
+.env.local
+**/.env
+**/stripe-webhook/.env
+**/identity-webhook/.env
+.expo/
+ios/Pods/
+ios/build/
+android/.gradle/
+android/build/
+node_modules/
+/test-app/
